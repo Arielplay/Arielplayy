@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PlayAriel - Streaming por 7 Dias</title>
+  <style>
+    body { margin: 0; font-family: 'Segoe UI', sans-serif; background: #f4f4f4; color: #333; }
+    header { background-color: #2e74ff; color: white; padding: 30px 20px; text-align: center; }
+    header h1 { margin: 0; font-size: 2.5em; }
+    header p { font-size: 1.2em; }
+    .container { padding: 20px; max-width: 800px; margin: auto; }
+    .section { margin-bottom: 40px; }
+    .cta-button {
+      display: inline-block;
+      padding: 15px 25px;
+      background-color: #2e74ff;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 1.2em;
+      transition: background 0.3s;
+    }
+    .cta-button:hover { background-color: #1f5edb; }
+    .benefits li { margin: 10px 0; }
+    footer { background-color: #ddd; text-align: center; padding: 15px; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>PlayAriel</h1>
+    <p>Streaming por 7 dias com o menor preço e acesso imediato</p>
+  </header>  <div class="container">
+    <section class="section">
+      <h2>Por que escolher o PlayAriel?</h2>
+      <ul class="benefits">
+        <li>Assista séries, filmes e conteúdos exclusivos por 7 dias</li>
+        <li>Acesso rápido, suporte humano e seguro</li>
+        <li>Sem burocracia, sem complicação</li>
+        <li>Preço justo para experimentar tudo</li>
+      </ul>
+    </section><section class="section">
+  <h2>Depoimentos</h2>
+  <p><em>“Consegui assistir tudo o que queria na semana de folga, perfeito!”</em> – Lúcia M.</p>
+  <p><em>“O atendimento foi rápido e deu tudo certo, recomendo!”</em> – João P.</p>
+</section>
+
+<section class="section" style="text-align: center;">
+  <h2>Quer seu acesso agora?</h2>
+  <a class="cta-button" href="https://wa.me/5551996955930" target="_blank">Falar no WhatsApp</a>
+</section>
+
+  </div>  <footer>
+    &copy; 2025 PlayAriel. Serviço independente e de acesso temporário a streaming. Suporte personalizado.
+  </footer>
+</body>
+</html>
